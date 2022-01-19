@@ -22,7 +22,6 @@
 }
 @media (max-width: 767px){
     .navbar-brand {
-        top: 15%;
         left: 70% !important;
     }
 }
@@ -288,6 +287,9 @@
         text-align: center;
     }
     .copyright {
+        text-align: center;
+    }
+    .footer {
         text-align: center;
     }
 }
